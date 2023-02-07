@@ -1,0 +1,14 @@
+{
+    "name": "Always Animate",
+    "description": "Always animate avatars and guild icons.",
+    "authors": [
+        {
+            "name": "Fiery",
+            "id": "890228870559698955"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_play"
+    }
+}
